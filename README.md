@@ -1,6 +1,6 @@
 # INSTALADOR SCLIPT 4G
 ```
-apt install wget -y; wget https://raw.githubusercontent.com/Jrtnetvpn/4g/main/install.sh && chmod +x install.sh && ./install*
+aapt install wget -y; wget https://raw.githubusercontent.com/Piumaes/4g/main/install.sh && chmod +x install.sh && ./install*
 ```
 
 # DESCRIÇÃO
